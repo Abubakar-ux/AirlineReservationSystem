@@ -1,0 +1,22 @@
+Newyork Amsterdam 3/12/2019 19:00 1:00 75000 ANA
+Newyork Amsterdam 3/12/2019 19:00 1:00 75000 ANA
+Newyork Amsterdam 3/12/2019 19:00 1:00 75000 ANA
+Amsterdam Singapore 3/12/2019 8:00 1:00 65000 ANA
+Amsterdam Singapore 3/12/2019 8:00 1:00 65000 ANA
+Amsterdam Singapore 4/12/2019 8:00 1:00 65000 ANA
+Amsterdam Singapore 5/12/2019 8:00 1:00 65000 ANA
+Newyork Islamabad 4/12/2019 11:00 16:00 100000 ANA
+
+
+Newyork Islamabad 4/12/2019 10:00 15:00 100000 ANA
+Newyork Seoul 4/12/2019 20:00 24:00 36000 ANA
+
+Islamabad Tokyo 4/12/2019 11:00 17:00 85000 ANA
+
+
+Paris Islamabad 5/12/2019 14:00 17:00 90000 ANA
+Paris Islamabad 5/12/2019 14:00 17:00 90000 ANA
+Newyork Seoul 5/12/2019 20:00 24:00 36000 ANA
+Newyork Islamabad 5/12/2019 11:00 16:00 100000 ANA
+
+Paris Islamabad 6/12/2019 14:00 17:00 90000 ANA
